@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+
+}
+
+input{
+    background-color: blue;
+    transform: translateY(20%);
+    transition: .3s;
+    
+}
